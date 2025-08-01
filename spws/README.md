@@ -19,7 +19,7 @@ spws/
 ## Setup Instructions
 1. **Clone the Repository**: 
    ```
-   git clone git@github.com:phuongtk0407/C-advanced.git
+   git clone git@github.com:phuongtk0407/Cadvanced-home-work.git
    cd spws
    ```
 
