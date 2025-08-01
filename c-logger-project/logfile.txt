@@ -1,0 +1,14 @@
+[2025-08-01 14:06:24] [INFO] This is an info message.
+[2025-08-01 14:06:24] [WARNING] This is a warning message.
+[2025-08-01 14:06:24] [ERROR] This is an error message.
+[2025-08-01 14:06:24] [DEBUG] This is a debug message.
+[2025-08-01 14:06:24] [ALERT] This is an alert message.
+[2025-08-01 14:06:24] [EMERGENCY] This is an emergency message.
+[2025-08-01 14:06:24] [ERROR] This error message should appear.
+[2025-08-01 14:17:30] [INFO] This is an info message.
+[2025-08-01 14:17:30] [WARNING] This is a warning message.
+[2025-08-01 14:17:30] [ERROR] This is an error message.
+[2025-08-01 14:17:30] [DEBUG] This is a debug message.
+[2025-08-01 14:17:30] [ALERT] This is an alert message.
+[2025-08-01 14:17:30] [EMERGENCY] This is an emergency message.
+[2025-08-01 14:17:30] [ERROR] This error message should appear.
